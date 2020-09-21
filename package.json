@@ -1,0 +1,22 @@
+{
+  "name": "math_game",
+  "version": "0.0.1",
+  "description": "A game to develop math skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build  index.html"
+  },
+  "keywords": [
+    "math",
+    "game"
+  ],
+  "author": "niknbr",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "pixi.js": "^5.3.3"
+  }
+}
