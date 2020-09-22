@@ -9,7 +9,7 @@ npm init
 ```
 To start the dev server
 ```
-npm stat
+npm start
 ```
 To build the app
 ```
